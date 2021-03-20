@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>'Ki</title>
+        <item>
+            <title>Version 0.1.0</title>
+            <description>Official Launching</description>
+            <pubDate>Thu, 04 Mar 2021 00:00:00 +0000</pubDate>
+            <enclosure url="url/to/google/play" sparkle:version="0.8.1" sparkle:os="android" />
+        </item>
+    </channel>
+</rss>
